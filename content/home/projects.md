@@ -48,10 +48,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Workshop"
     tag = "workshop"
-  
-  [[content.filter_button]]
-    name = "Course"
-    tag = "course"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
