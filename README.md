@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0b424c8-284e-4687-9302-69c70954899a/deploy-status)](https://app.netlify.com/sites/winsonfzyang/deploys)
+
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
