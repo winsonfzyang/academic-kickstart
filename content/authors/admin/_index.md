@@ -71,9 +71,13 @@ user_groups:
 - Visitors
 ---
 
-Hello and welcome! I am a graduate student in Cognitive Neuroscience at the Department of Psychological Sciences at Texas Tech University. Previously, I was a visiting researcher at the UCSF Memory and Aging Center, where I investigated resting-state networks on social functions in the ageing population. 
+I am a graduate student in Cognitive Neuroscience at the Department of Psychological Sciences at Texas Tech University. 
+Previously, I was a visiting researcher at [Dr. Katherine Rankin's lab](https://rankinlab.ucsf.edu) at the [UCSF Memory and Aging Center](https://memory.ucsf.edu/), where I investigated social functions in the neurodegenerative diseases. 
+Currently, I'm investigating the neural and cognitive mechanisms of meditation, such as large-scale networks and mental flexibility. 
 
-Currently, I'm investigating meditation and its effects on human behavior from a neuroscientific perspective. I'm also investigating meta-awareness and flexibility brought about by meditation. My research methodology focuses on brain-networks, particularly functional connectivity, and using these methods to understand the changes and the dynamics of functional connectivity with regards to behavior changes from meditation.
+Outside of research, I'm a programming enthusiast, and I regularly host workshops, tutorials, and develop learning materials on various topics such as data visualization, statistical analysis with R, and creating online experiments using jsPsych.
+I also like creating tools to help researchers with data analysis. A few of such projects are DEViS and BTS.
+
 
 ## <b>For more info</b>
 If you would like to collaborate on some projects, feel free to contact me at winson.yang@ttu.edu I would be more than happy to work on projects together. If you would like to learn more about meditation, I am more than willing to share my thoughts with you too!
