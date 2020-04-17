@@ -10,7 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/winsonfzyang
 summary: Explore what makes our minds flexible!
+categories:
+- research
 tags:
+- research
 - flexibility
 title: Mental flexibility
 url_code: ""

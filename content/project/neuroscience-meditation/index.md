@@ -11,8 +11,12 @@ links:
   url: https://twitter.com/winsonfzyang
 slides: example
 summary: Explore how meditation affects the brain!
+categories:
+- research
 tags:
+- research
 - meditation
+- neuroscience
 title: Neuroscience of Meditation
 url_code: ""
 url_pdf: ""

@@ -14,6 +14,7 @@ tags:
 - jsPsych
 - javascript
 - programming
+- workshop
 title: jsPsych tutorial
 url_code: ""
 url_pdf: ""

@@ -10,10 +10,13 @@ links:
   name: Follow
   url: https://twitter.com/winsonfzyang
 summary: Learn programming and statistics for psychological research with R
+categories:
+- workshop
 tags:
 - statistics
 - programming
 - R
+- workshop
 title: R Statistics
 url_code: ""
 url_pdf: ""
