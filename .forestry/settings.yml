@@ -29,7 +29,7 @@ sections:
   templates:
     - event
 - type: directory
-  path: content/publication
+  path: content/publications
   label: Publications
   create: all
   match: "**/*"
