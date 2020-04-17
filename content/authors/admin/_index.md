@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Winson Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student in Experimental Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Texas Tech University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neuroscience of meditation, meta-awareness and flexibility, and social function in neurodegenerative diseases.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mechanisms of meditation
+- Neurodegenerative diseases
+- meta-awareness and flexibility
+- Education/Science Outreach
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Experimental Psychology
+    institution: Texas Tech University
+    year: 2023
+  - course: MSc in Cognitive and Clinical Neuroscience, Neuropsychology
+    institution: Maastricht University
+    year: 2017
+  - course: BA in Psychology
+    institution: James Cook University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'winsonfz.yang@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/winsonfzyang
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=YNSIZiEAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/winsonfzyang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +71,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello and welcome! I am a graduate student in Cognitive Neuroscience at the Department of Psychological Sciences at Texas Tech University. Previously, I was a visiting researcher at the UCSF Memory and Aging Center, where I investigated resting-state networks on social functions in the ageing population. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I'm investigating meditation and its effects on human behavior from a neuroscientific perspective. I'm also investigating meta-awareness and flexibility brought about by meditation. My research methodology focuses on brain-networks, particularly functional connectivity, and using these methods to understand the changes and the dynamics of functional connectivity with regards to behavior changes from meditation.
+
+## <b>For more info</b>
+If you would like to collaborate on some projects, feel free to contact me at winson.yang@ttu.edu I would be more than happy to work on projects together. If you would like to learn more about meditation, I am more than willing to share my thoughts with you too!
