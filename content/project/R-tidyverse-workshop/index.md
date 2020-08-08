@@ -2,7 +2,7 @@
 date: "2020-04-16T00:00:00Z"
 external_link: https://winsonfzyang.github.io/RWorkshop
 image:
-  caption: 
+  caption:
   focal_point: Smart
 links:
 - icon: twitter
@@ -17,7 +17,7 @@ tags:
 - programming
 - R
 - workshop
-title: R Statistics
+title: R Tidyverse Workshop
 url_code: ""
 url_pdf: ""
 url_slides: ""
