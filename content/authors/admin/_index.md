@@ -71,9 +71,9 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student in Cognitive Neuroscience at the Department of Psychological Sciences at Texas Tech University.
-Previously, I was a visiting researcher at [Dr. Katherine Rankin's lab](https://rankinlab.ucsf.edu) at the [UCSF Memory and Aging Center](https://memory.ucsf.edu/), where I investigated social functions in the neurodegenerative diseases.
-Currently, I'm working with [Dr. Yiyuan Tang](https://www.depts.ttu.edu/psy/people/ytang/), investigating the neural and cognitive mechanisms of meditation, such as large-scale networks and mental flexibility. 
+I am a graduate student in Cognitive Neuroscience at the Department of Psychological Sciences at Texas Tech University. 
+Previously, I was a visiting researcher at [Dr. Katherine Rankin's lab](https://rankinlab.ucsf.edu) at the [UCSF Memory and Aging Center](https://memory.ucsf.edu/), where I investigated social functions in the neurodegenerative diseases. 
+Currently, I'm investigating the neural and cognitive mechanisms of meditation, such as large-scale networks and mental flexibility. 
 
 Outside of research, I'm a programming enthusiast, and I regularly host workshops, tutorials, and develop learning materials on various topics such as data visualization, statistical analysis with R, and creating online experiments using jsPsych.
 I also like creating tools to help researchers with data analysis. A few of such projects are DEViS and BTS.

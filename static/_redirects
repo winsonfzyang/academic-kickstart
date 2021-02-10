@@ -1,3 +1,2 @@
 # Redirects from what the browser requests to what we serve
 http://winsonfzyang.rbind.io/*    https://winsonfzyang.rbind.io/:splat  301!
-http://winsonfzyang.github.io/*    https://winsonfzyang.rbind.io/:splat  301!
