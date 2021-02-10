@@ -1,24 +1,25 @@
 ---
 date: "2020-04-16T00:00:00Z"
-external_link: https://winsonfzyang.github.io/jsPsychTutorial/
+external_link: https://winsonfzyang.github.io/RWorkshop
 image:
-  caption: 
+  caption:
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/winsonfzyang
-summary: Learn to create behavioral experiments on the web!
-tags:
-- jsPsych
-- javascript
-- programming
+summary: Learn programming data analysis with R Tidyverse
+categories:
 - workshop
-title: jsPsych tutorial
+tags:
+- statistics
+- programming
+- R
+- workshop
+title: R Tidyverse Workshop
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
