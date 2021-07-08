@@ -34,9 +34,7 @@ education:
   - course: MSc in Cognitive and Clinical Neuroscience, Neuropsychology
     institution: Maastricht University
     year: 2017
-  - course: BA in Psychology
-    institution: James Cook University
-    year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
